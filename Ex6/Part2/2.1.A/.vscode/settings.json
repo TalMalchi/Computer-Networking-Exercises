@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "ip_icmp.h": "c",
+        "ip.h": "c",
+        "if_ether.h": "c"
+    }
+}
